@@ -18,21 +18,16 @@ numeric operations on the values before the assignment.
 
 PowerShell supports the following assignment operators.
 
-|Operator|Description                                                  |
-|--------|-------------------------------------------------------------|
-|=       |Sets the value of a variable to the specified value.         |
-|+=      |Increases the value of a variable by the specified value, or |
-|        |appends the specified value to the existing value.           |
-|-=      |Decreases the value of a variable by the specified value.    |
-|*=      |Multiplies the value of a variable by the specified value, or|
-|        |appends the specified value to the existing value.           |
-|/=      |Divides the value of a variable by the specified value.      |
-|%=      |Divides the value of a variable by the specified value and   |
-|        |then assigns the remainder (modulus) to the variable.        |
-|++      |Increases the value of a variable, assignable property, or   |
-|        |array element by 1.                                          |
-|--      |Decreases the value of a variable, assignable property, or   |
-|        |array element by 1.                                          |
+|Operator|Description                                                                                                     |
+|--------|----------------------------------------------------------------------------------------------------------------|
+|=       |Sets the value of a variable to the specified value.                                                            |
+|+=      |Increases the value of a variable by the specified value, or appends the specified value to the existing value. |
+|-=      |Decreases the value of a variable by the specified value.                                                       |
+|\*=     |Multiplies the value of a variable by the specified value, or appends the specified value to the existing value.|
+|/=      |Divides the value of a variable by the specified value.                                                         |
+|%=      |Divides the value of a variable by the specified value and then assigns the remainder (modulus) to the variable.|
+|++      |Increases the value of a variable, assignable property, or array element by 1.                                  |
+|--      |Decreases the value of a variable, assignable property, or array element by 1.                                  |
 
 ## Syntax
 
